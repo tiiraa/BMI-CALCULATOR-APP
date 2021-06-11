@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">THE BMI CALCULATOR</string>
+    <string name="copyright">  Copyright &#169; 2021 AfifahAthirah</string>
+    <string name="details"> Developer Detail :- </string>
+    <string name="group"> RCS 240 5A  </string>
+    <string name="afifah"> Afifah Najibah Binti Arif (2020976597) </string>
+    <string name="athirah">Nor Athirah Binti Mohd Asri (2020979171) </string>
+    <string name="info"> This is BMI Calculator. User can use this calculator to calculate their bmi
+                          by enter their height and weight in cm. </string>
+    <string name="webisteurl">This is our mobile application url :  </string>
+    <string name="hyperlink"><a href="https://github.com/tiiraa/BMI-CALCULATOR-APP">Our GitHub link!</a></string>
+</resources>
